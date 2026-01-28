@@ -63,70 +63,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=120&section=header&text=🌟%20VISIT%20LIVE%20SITE%20🌟&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=50" width="600"/>
 </a>
 
-<br/>
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📂 PROJECT STRUCTURE -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 📂 **PROJECT STRUCTURE**
-
-</div>
-
-```ascii
-ai-workflow-hub/
-│
-├── 📄 index.html          ← Main HTML structure with semantic markup
-├── 🎨 styles.css          ← Comprehensive styling with glassmorphism
-├── ⚡ script.js           ← Interactive functionality and animations
-├── 📖 README.md           ← This amazing file you're reading
-└── 🚀 .github/            ← GitHub Actions & workflows
-```
-
-<details>
-<summary>🗂️ <b>DETAILED FILE BREAKDOWN</b></summary>
-<br/>
-
-<table align="center" width="100%">
-<tr>
-<th width="30%">File</th>
-<th width="70%">Description</th>
-</tr>
-<tr>
-<td><code>index.html</code></td>
-<td>
-  • Semantic HTML5 structure<br/>
-  • SEO optimized meta tags<br/>
-  • Accessibility features<br/>
-  • Open Graph for social sharing
-</td>
-</tr>
-<tr>
-<td><code>styles.css</code></td>
-<td>
-  • Glassmorphism effects<br/>
-  • CSS custom properties<br/>
-  • Responsive design system<br/>
-  • Smooth animations
-</td>
-</tr>
-<tr>
-<td><code>script.js</code></td>
-<td>
-  • Pure Vanilla JavaScript<br/>
-  • Intersection Observer API<br/>
-  • Dynamic modal system<br/>
-  • Particle animation engine
-</td>
-</tr>
-</table>
-
-</details>
-
-<br/>
-
-
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
@@ -319,6 +255,69 @@ PostgreSQL:
 </div>
 
 <br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 📂 PROJECT STRUCTURE -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 📂 **PROJECT STRUCTURE**
+
+</div>
+
+```ascii
+ai-workflow-hub/
+│
+├── 📄 index.html          ← Main HTML structure with semantic markup
+├── 🎨 styles.css          ← Comprehensive styling with glassmorphism
+├── ⚡ script.js           ← Interactive functionality and animations
+├── 📖 README.md           ← This amazing file you're reading
+└── 🚀 .github/            ← GitHub Actions & workflows
+```
+
+<details>
+<summary>🗂️ <b>DETAILED FILE BREAKDOWN</b></summary>
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<th width="30%">File</th>
+<th width="70%">Description</th>
+</tr>
+<tr>
+<td><code>index.html</code></td>
+<td>
+  • Semantic HTML5 structure<br/>
+  • SEO optimized meta tags<br/>
+  • Accessibility features<br/>
+  • Open Graph for social sharing
+</td>
+</tr>
+<tr>
+<td><code>styles.css</code></td>
+<td>
+  • Glassmorphism effects<br/>
+  • CSS custom properties<br/>
+  • Responsive design system<br/>
+  • Smooth animations
+</td>
+</tr>
+<tr>
+<td><code>script.js</code></td>
+<td>
+  • Pure Vanilla JavaScript<br/>
+  • Intersection Observer API<br/>
+  • Dynamic modal system<br/>
+  • Particle animation engine
+</td>
+</tr>
+</table>
+
+</details>
+
+<br/>
+
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🏗️ ARCHITECTURE -->
