@@ -1,4 +1,3 @@
-# ⚡ AI Workflow Automation Hub
 
 <div align="center">
 
@@ -27,18 +26,6 @@
 # <p align="center">⚡ AI Workflow Automation Hub ⚡</p>
 
 <div align="center">
-
-![GitHub Header](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-[![Version](https://img.shields.io/badge/Version-1.0.0-6366f1?style=for-the-badge&logo=github)](https://github.com/moh222salah/automation-workflows)
-[![License: MIT](https://img.shields.io/badge/License-MIT-ec4899?style=for-the-badge&logo=opensourceinitiative)](https://opensource.org/licenses/MIT)
-[![Performance](https://img.shields.io/badge/Performance-100%25-8b5cf6?style=for-the-badge&logo=google-chrome)](https://github.com/moh222salah/automation-workflows)
-[![Responsive](https://img.shields.io/badge/Responsive-YES-10b981?style=for-the-badge&logo=responsive-design)](https://github.com/moh222salah/automation-workflows)
-
-### 🚀 "Transform Your Business with Intelligent Workflow Automation"
-*A premium single-page application showcasing the peak of AI-powered automation.*
-
-[🌐 Live Demo](#) • [📝 Documentation](#) • [✉️ Contact Developer](https://wa.me/201113903070)
 
 ---
 </div>
